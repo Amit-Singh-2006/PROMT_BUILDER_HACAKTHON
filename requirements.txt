@@ -4,5 +4,7 @@ python-dotenv
 requests
 razorpay
 twilio
-resend
+pydantic
 supabase
+resend
+python-multipart
